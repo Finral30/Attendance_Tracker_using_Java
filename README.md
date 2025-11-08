@@ -34,6 +34,6 @@ AttendanceTracker/
 └── README.md # Project documentation
 
 
-Sample Output:
+## Sample Output:
 Roll No: 101 | Name: Finral | Status: Present
 Roll No: 102 | Name: R0kzi  | Status: Absent
