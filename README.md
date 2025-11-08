@@ -35,5 +35,5 @@ AttendanceTracker/
 
 
 ## Sample Output:
-Roll No: 101 | Name: Finral | Status: Present
+Roll No: 101 | Name: Finral | Status: Present\n
 Roll No: 102 | Name: R0kzi  | Status: Absent
